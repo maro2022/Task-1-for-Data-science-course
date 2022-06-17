@@ -1,0 +1,6 @@
+git init
+git add README.md  
+git add Task 1 for Data Science course.ipynb
+git commit -m "notebook first commit" 
+git remote add origin https://github.com/{Your repo}/Task 1 for Data Science course.git 
+git push -u origin master 
